@@ -1,1 +1,1 @@
-I’m happy to help preprocess your file, but I’ll need to see the file first. Could you please upload the document (CSV, Excel, JSON, text, etc.) you’d like me to work on? Once I have it, let me know any specific preprocessing steps you need (e.g., cleaning, deduplication, column renaming, filtering, format conversion, etc.).
+pre-process based on the give question
